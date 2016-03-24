@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"导出月工资汇总.html",
+  "generationDate":new Date(1449554593187.5),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"05c9ad04459b4756ab204d6c2d6b7a47",
+    "type":"Axure:Page",
+    "name":"导出月工资汇总",
+    "notes":{
+      "默认":"<p><span>导出的excel需要添加页头（年月）和页尾（制表，审批）</span></p>"},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"242580c28a924045a5c8e65a24cbd403",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1068,
+              "height":263}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b6759da355574aa99f579c6a023b0170",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1068,
+                  "height":263}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/导出月工资汇总/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "242580c28a924045a5c8e65a24cbd403":{
+      "scriptId":"u0"},
+    "b6759da355574aa99f579c6a023b0170":{
+      "scriptId":"u1"}}});

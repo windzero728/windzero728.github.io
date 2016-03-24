@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"导出部门工资.html",
+  "generationDate":new Date(1449554592343.75),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"83b275edc2f9400b8d575788749471de",
+    "type":"Axure:Page",
+    "name":"导出部门工资",
+    "notes":{
+      "默认":"<p><span>导出的excel需要添加页头（部门，年月）和页尾（制表，审批）</span></p>"},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"2755025ef4f948ddb95fcf1458b921e0",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1217,
+              "height":260}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cd5d2586dd144057a6a19e53d3b73d1e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1217,
+                  "height":260}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/导出部门工资/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "2755025ef4f948ddb95fcf1458b921e0":{
+      "scriptId":"u0"},
+    "cd5d2586dd144057a6a19e53d3b73d1e":{
+      "scriptId":"u1"}}});
